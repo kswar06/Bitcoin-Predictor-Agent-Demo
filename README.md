@@ -231,29 +231,46 @@ Executive Program in Data Science & AI — IIM Lucknow Alumni
 
 ---
 
-# 🔒 Source Code Access
+---
 
-The complete implementation is maintained privately.
+## 🔐 Source Code Access
+
+<p align="center">
+
+The complete implementation is maintained privately to protect intellectual property.  
 
 If you are a recruiter, hiring manager, or potential collaborator and would like access:
 
-<p align="left">
+</p>
 
-<a href="https://www.linkedin.com/in/ketan-swaroop/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Ketan%20Swaroop-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ketan-swaroop-8bbba515" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Ketan%20Swaroop-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://github.com/kswar06" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-kswar06-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-kswar06-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:ketan.swaroop.majestic@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
+<br>
+
+<p align="center">
 Access available upon request.
+</p>
+
 
 ---
 
