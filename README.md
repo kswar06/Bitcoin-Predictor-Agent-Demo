@@ -233,15 +233,27 @@ Executive Program in Data Science & AI — IIM Lucknow Alumni
 
 # 🔒 Source Code Access
 
-The complete source code is maintained privately to protect intellectual property.
+The complete implementation is maintained privately.
 
-If you are a recruiter, hiring manager, or potential collaborator and would like access to the full implementation:
+If you are a recruiter, hiring manager, or potential collaborator and would like access:
 
-- 🔗 **Connect on LinkedIn:** [View Profile](https://www.linkedin.com/in/ketan-swaroop/)
-- 💻 **GitHub Profile:** [Visit GitHub](https://github.com/kswar06)
-- 📩 **Email:** [Send Email](mailto:ketan.swaroop.majestic@gmail.com)
+<p align="left">
 
-Access can be shared upon request.
+<a href="https://www.linkedin.com/in/ketan-swaroop/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Ketan%20Swaroop-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kswar06" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-kswar06-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:ketan.swaroop.majestic@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+Access available upon request.
 
 ---
 
