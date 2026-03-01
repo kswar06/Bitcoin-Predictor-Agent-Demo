@@ -252,10 +252,12 @@ If you are a recruiter, hiring manager, or potential collaborator and would like
 </a>
 
 </p>
-&nbsp;&nbsp;
+<br>
+
 <p align="left">
 Access available upon request.
 </p>
+
 ---
 
 # ⭐ Support
