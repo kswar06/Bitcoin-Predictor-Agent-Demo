@@ -237,11 +237,12 @@ The complete source code is maintained privately to protect intellectual propert
 
 If you are a recruiter, hiring manager, or potential collaborator and would like access to the full implementation:
 
-- 🔗 Connect on LinkedIn: https://www.linkedin.com/in/ketan-swaroop-8bbba515
-- 💻 View my GitHub profile: https://github.com/kswar06/
-- 📩 Contact via email: ketan.swaroop.majestic@gmail.com
+- 🔗 **Connect on LinkedIn:** [View Profile](https://www.linkedin.com/in/ketan-swaroop/)
+- 💻 **GitHub Profile:** [Visit GitHub](https://github.com/kswar06)
+- 📩 **Email:** [Send Email](mailto:ketan.swaroop.majestic@gmail.com)
 
 Access can be shared upon request.
+
 ---
 
 # ⭐ Support
