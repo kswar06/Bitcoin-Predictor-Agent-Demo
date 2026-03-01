@@ -252,7 +252,6 @@ If you are a recruiter, hiring manager, or potential collaborator and would like
 </a>
 
 </p>
-<br>
 
 <p align="left">
 Access available upon request.
